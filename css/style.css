@@ -231,7 +231,7 @@ a {
 }
 
 .p-mv__inner {
-	background: url(./img/mv-sp.png) no-repeat center right/82vw auto;
+	background: url(../img/mv-sp.png) no-repeat center right/82vw auto;
 	height: 243px;
 	position: relative;
 }
@@ -665,7 +665,7 @@ a {
 }
 
 .p-menu__instagram-link::after {
-	background: url(./img/radix-icon.png) no-repeat center left/contain;
+	background: url(../img/radix-icon.png) no-repeat center left/contain;
 	content: "";
 	height: 14px;
 	position: absolute;
@@ -681,7 +681,7 @@ a {
 }
 
 .p-menu__instagram-link:hover::after {
-	background: url(./img/radix-icon-fff.png) no-repeat center left/contain;
+	background: url(../img/radix-icon-fff.png) no-repeat center left/contain;
 }
 
 .p-menu__instagram-link a {
@@ -901,7 +901,7 @@ a {
 }
 
 .p-contact {
-	background: url(./img/contact-bg__sp.png) no-repeat center center/cover;
+	background: url(../img/contact-bg__sp.png) no-repeat center center/cover;
 	padding: 64px 16px;
 }
 
@@ -1058,7 +1058,7 @@ a {
 }
 
 .form-field__checkbox-text::after {
-	background: url(./img/akar-icons_check.png) no-repeat center center/contain;
+	background: url(../img/akar-icons_check.png) no-repeat center center/contain;
 	height: 30px;
 	left: 3px;
 	opacity: 0;
@@ -1303,7 +1303,7 @@ body {
 }
 
 .p-mv__inner {
-	background: url(./img/mv-pc.png) no-repeat center right/75vw auto;
+	background: url(../img/mv-pc.png) no-repeat center right/75vw auto;
 	height: 650px;
 }
 
@@ -1882,7 +1882,7 @@ body {
 }
 
 .p-contact {
-	background: url(./img/contact-bg__pc.png) no-repeat center center/cover;
+	background: url(../img/contact-bg__pc.png) no-repeat center center/cover;
 	padding: 129px 40px 130px 40px;
 }
 
